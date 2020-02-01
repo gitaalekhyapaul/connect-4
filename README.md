@@ -1,2 +1,2 @@
-# connect-4
-Command Line Connect 4
+# Connect 4: Command Line Style!
+Written in Java
